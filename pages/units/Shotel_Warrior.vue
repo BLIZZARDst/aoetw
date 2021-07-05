@@ -487,7 +487,7 @@
             >後)。
           </p>
           <p>
-            彎刀勇士和<nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
+            彎刀勇士和<nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link
             >(遊戲中生產速度第二)是遊戲中唯二持有雙手武器的單位。
           </p>
         </div>
